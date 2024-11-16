@@ -28,6 +28,7 @@ body {
     display: inline-block;
 }
 
+/* Assignment 1 */
 .headers {
     font-family: inherit, sans-serif;
     font-size: 22px;
@@ -52,11 +53,12 @@ body {
     font-size: 18px;
 }
 
+/* Assignment 2 */
 #field {
     width: 500px;
     height: 500px;
     border: 10px solid black;
-    background-color: #00FF00;
+    background-color: #23c123;
     position: relative;
     overflow: hidden;
     cursor: pointer;
@@ -72,6 +74,7 @@ body {
     transition: all 1s;
 }
 
+/* Assignment 3 */
 .menu ul {
     margin: 0;
     list-style: none;
@@ -86,7 +89,6 @@ body {
 
 .menu .title::before {
     content: '▶ ';
-    /* font-size: 80%; */
     color: green;
 }
 

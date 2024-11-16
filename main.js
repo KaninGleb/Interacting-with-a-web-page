@@ -3,8 +3,6 @@ const text = document.querySelector('.text');
 const buttonAppear = document.querySelector('#appear');
 const buttonDisappear = document.querySelector('#disappear');
 
-console.log(text);
-
 function showText() {
     text.style.display = '';
 }
@@ -50,3 +48,12 @@ field.onclick = function (event) {
     ball.style.left = ballCoords.left + 'px';
     ball.style.top = ballCoords.top + 'px';
 }
+
+
+// Assignment 4
+let menuElem = document.querySelector('#sweeties');
+let titleElem = menuElem.querySelector('.title');
+
+titleElem.onclick = function () {
+    menuElem.classList.toggle('open');
+};

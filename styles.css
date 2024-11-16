@@ -10,9 +10,21 @@ body {
 
 .container {
     padding: 10px;
+    display: flex;
+    flex-direction: column;
 }
 
-h1 {
+.wrapper {
+    background-color: aquamarine;
+    padding: 10px;
+    max-width: 500px;
+    min-height: 50px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.headers {
     font-family: inherit, sans-serif;
     font-size: 22px;
 }
@@ -32,8 +44,9 @@ h1 {
     
 }
 
-p {
+.text {
     font-family: inherit, sans-serif;
     font-size: 18px;
+
 }
 

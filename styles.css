@@ -32,10 +32,11 @@ body {
 .headers {
     font-family: inherit, sans-serif;
     font-size: 22px;
+    margin: 10px 0;
 }
 
 .button {
-    margin: 10px 0;
+    margin-bottom: 10px;
     padding: 5px;
     border-radius: 10px;
     min-width: 100px;
@@ -98,4 +99,20 @@ body {
 
 .menu.open ul {
     display: block;
+}
+
+/* Assignment 5 */
+.pane {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    padding: 5px;
+    border: 3px solid #cccccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.remove-button {
+    padding: 1px 5px;
+    cursor: pointer;
 }

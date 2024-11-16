@@ -57,3 +57,12 @@ let titleElem = menuElem.querySelector('.title');
 titleElem.onclick = function () {
     menuElem.classList.toggle('open');
 };
+
+
+// Assignment 5
+let panes = document.querySelectorAll('.pane');
+
+for (let pane of panes) {
+    pane.insertAdjacentHTML("afterbegin", '<button class="remove-button">X</button>');
+    pane.firstChild.onclick = () => pane.remove();
+}

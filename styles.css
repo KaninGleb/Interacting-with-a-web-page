@@ -22,7 +22,6 @@ body {
 .wrapper {
     background-color: aquamarine;
     padding: 10px;
-    border: 1px solid #ccc;
     border-radius: 10px;
     margin-bottom: 10px;
     display: inline-block;

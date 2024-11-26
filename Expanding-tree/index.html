@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <style>
+        .tree span:hover {
+            font-weight: bold;
+        }
+
+        .tree span {
+            cursor: pointer;
+        }
+    </style>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+    <ul class="tree" id="tree">
+        <li>Animals
+            <ul>
+                <li>Mammals
+                    <ul>
+                        <li>Cows</li>
+                        <li>Donkeys</li>
+                        <li>Dogs</li>
+                        <li>Tigers</li>
+                    </ul>
+                </li>
+                <li>Others
+                    <ul>
+                        <li>Snakes</li>
+                        <li>Birds</li>
+                        <li>Lizards</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>Fish
+            <ul>
+                <li>Aquarium
+                    <ul>
+                        <li>Guppies</li>
+                        <li>Angelfish</li>
+                    </ul>
+                </li>
+                <li>Sea
+                    <ul>
+                        <li>Sea Trout</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+    <script>
+        // поместить все текстовые узлы в элемент <span>
+        // он занимает только то место, которое необходимо для текста
+        for (let li of tree.querySelectorAll('li')) {
+            let span = document.createElement('span');
+            li.prepend(span);
+            span.append(span.nextSibling); // поместить текстовый узел внутрь элемента <span>
+        }
+
+        //  ловим клики на всём дереве
+        tree.onclick = function (event) {
+
+            if (event.target.tagName != 'SPAN') {
+                return;
+            }
+
+            let childrenContainer = event.target.parentNode.querySelector('ul');
+            if (!childrenContainer) return; // нет детей
+
+            childrenContainer.hidden = !childrenContainer.hidden;
+        }
+    </script>
+
+</body>
+
+</html>

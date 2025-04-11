@@ -29,7 +29,6 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/06-Catch-the-link-transition/)
 
 
-
-   
-7. 
-8. [Delegation Image Gallery](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/07-Delegation-image-gallery/) 
+7. **✨Delegation Image Gallery✨** <br/>
+   Develop an image gallery using event delegation for efficiency.
+   [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/07-Delegation-image-gallery/) 

@@ -39,7 +39,15 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 
 1. **✨Modal dialog box with form✨** <br/>
    Create a modal dialog that includes a form for user input. <br/>
-   [View Assignment](https://kaningleb.github.io/Learn-JS/Modal-windows/01-Modal-dialog-box-with-form/) 
+   [View Assignment](https://kaningleb.github.io/Learn-JS/Modal-windows/01-Modal-dialog-box-with-form/)
+
+
+### Promises 🤝
+
+1. **✨Circle animation with Promise✨** <br/>
+   Implement a circular animation that resolves with a promise to demonstrate asynchronous behavior. <br/>
+   [View Assignment](https://kaningleb.github.io/Learn-JS/Promises/01-Circle-Animation-with-Promises/)
+  
 
 
 

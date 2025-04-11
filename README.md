@@ -20,11 +20,13 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    Build a sortable table to manage data effectively. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/04-Sorted-table/)
 
-
+5. **✨Data Tooltip✨** <br/>
+   Create informative tooltips that provide additional context. <br/>
+   [Data Tooltip](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/05-Data-tooltip/)
 
 
 
 5. 
-6. [Data Tooltip](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/05-Data-tooltip/)
+6. 
 7. [Catch the Link Transition](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/06-Catch-the-link-transition/)
 8. [Delegation Image Gallery](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/07-Delegation-image-gallery/) 

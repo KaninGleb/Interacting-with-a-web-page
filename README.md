@@ -22,11 +22,14 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 
 5. **✨Data Tooltip✨** <br/>
    Create informative tooltips that provide additional context. <br/>
-   [Data Tooltip](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/05-Data-tooltip/)
+   [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/05-Data-tooltip/)
+
+6. **✨Catch the Link Transition✨** <br/>
+   Implement catch transitions when navigating links. <br/>
+   [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/06-Catch-the-link-transition/)
 
 
 
-5. 
-6. 
-7. [Catch the Link Transition](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/06-Catch-the-link-transition/)
+   
+7. 
 8. [Delegation Image Gallery](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/07-Delegation-image-gallery/) 

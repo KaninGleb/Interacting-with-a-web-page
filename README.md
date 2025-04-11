@@ -2,9 +2,10 @@
 
 This repository is dedicated to my practice tasks from **Learn JavaScript**. Here, you'll find various interactive components and examples that help enhance my understanding of JavaScript and web development. 🚀
 
-## Contents 📚
+## Contents 📚:
+### Interacting with a Web Page 🌍
 
-1. **✨Interacting with a Web Page✨** <br/>
+1. **✨Web Page Interacting✨** <br/>
    Explore basic interactions and event handling. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/01-Interacting/)
    
@@ -27,7 +28,6 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 6. **✨Catch the Link Transition✨** <br/>
    Implement catch transitions when navigating links. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/06-Catch-the-link-transition/)
-
 
 7. **✨Delegation Image Gallery✨** <br/>
    Develop an image gallery using event delegation for efficiency. <br/>

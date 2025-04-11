@@ -32,3 +32,17 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 7. **✨Delegation Image Gallery✨** <br/>
    Develop an image gallery using event delegation for efficiency. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/07-Delegation-image-gallery/) 
+
+<br/>
+
+### Modal windows 🪟
+
+1. **✨Modal dialog box with form✨** <br/>
+   Create a modal dialog that includes a form for user input. <br/>
+   [View Assignment](https://kaningleb.github.io/Learn-JS/Modal-windows/01-Modal-dialog-box-with-form/) 
+
+
+
+
+
+

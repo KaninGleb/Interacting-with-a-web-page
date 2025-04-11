@@ -59,17 +59,17 @@
 
             complete(value);
             return false;
-        };
+        }
 
         form.cancel.onclick = function() {
             complete(null);
-        };
+        }
 
         document.onkeydown = function(e) {
             if (e.key == 'Escape') {
                 complete(null);
             }
-        };
+        }
 
         let lastElem = form.elements[form.elements.length - 1];
         let firstElem = form.elements[0];
@@ -79,14 +79,14 @@
                 firstElem.focus();
                 return false;
             }
-        };
+        }
 
         firstElem.onkeydown = function(e) {
             if (e.key == 'Tab' && e.shiftKey) {
                 lastElem.focus();
                 return false;
             }
-        };
+        }
 
         container.style.display = 'block';
         form.elements.text.focus();
@@ -95,8 +95,8 @@
     document.getElementById('show-button').onclick = function() {
         showPrompt("Enter something<br>...smart :)", function(value) {
             alert("You entered: " + value);
-        });
-    };
+        })
+    }
 </script>
 
 </body>

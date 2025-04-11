@@ -41,6 +41,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    Create a modal dialog that includes a form for user input. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Modal-windows/01-Modal-dialog-box-with-form/)
 
+<br/>
 
 ### Promises 🤝
 

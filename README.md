@@ -4,7 +4,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 
 ## Contents 📚
 
-1. [Interacting with a Web Page](https://kaningleb.github.io/Interacting-with-a-web-page/Interacting/)
+1. [Interacting Assignments](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/01-Interacting/)
 2. [Carousel](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/02-Carousel/)
 3. [Expanding Tree](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/03-Expanding-tree/)
 4. [Sorted Table](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/04-Sorted-table/)

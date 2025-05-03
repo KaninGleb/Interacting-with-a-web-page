@@ -49,7 +49,12 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    Implement a circular animation that resolves with a promise to demonstrate asynchronous behavior. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Promises/01-Circle-Animation-with-Promises/)
   
+<br/>
 
+### Classes 👍
+1. **✨Clock with Class✨** <br/>
+   Implement a clock using JavaScript classes. <br/>
+   [View Assignment](https://kaningleb.github.io/Learn-JS/Classes/01-Clock-with-Class/)
 
 
 

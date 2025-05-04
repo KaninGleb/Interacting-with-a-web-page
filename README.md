@@ -5,11 +5,11 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 ## Contents 📚:
 ### Interacting with a Web Page 🌍
 
-1. **✨Web Page Interacting✨** <br/>
+1. $\textsf{\color{gold}{✨Web Page Interacting✨}}$ <br/>
    Explore basic interactions and event handling. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/01-Interacting/)
    
-3. **✨Carousel✨** <br/>
+3. $\textsf{\color{gold}{✨Carousel✨}}$ <br/>
    Create a dynamic carousel to showcase images or content. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/02-Carousel/)
 

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Calculator using Object methods</title>
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<div class="calculator-container">
+    <div class="calculator">
+        <h2 class="calc-title">Simple Calculator</h2>
+
+        <form id="calculatorForm">
+            <div class="form-group">
+                <label for="numberA">Enter number A:</label>
+                <input type="number" id="numberA" class="number-input" name="numberA" placeholder="A = 0" required>
+            </div>
+
+            <div class="form-group">
+                <label for="numberB">Enter number B:</label>
+                <input type="number" id="numberB" class="number-input" name="numberB" placeholder="B = 0" required>
+            </div>
+
+            <button class="btn" type="button">Calculate</button>
+        </form>
+    </div>
+
+    <div id="results-container" class="results-container hidden">
+        <div class="results">
+            <p id="resultSum" aria-live="polite"></p>
+            <p id="resultMul" aria-live="polite"></p>
+        </div>
+    </div>
+</div>
+
+<script src="main.js"></script>
+</body>
+
+</html>

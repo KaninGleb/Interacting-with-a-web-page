@@ -52,7 +52,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 <br/>
 
 ### Classes 👍
-1. **✨Clock with Class✨** <br/>
+1. $\textsf{\color{gold}{✨ Clock with Class ✨}}$ <br/>
    Implement a clock using JavaScript classes. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Classes/01-Clock-with-Class/)
 

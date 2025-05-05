@@ -2,8 +2,12 @@
 
 This repository is dedicated to my practice tasks from **Learn JavaScript**. Here, you'll find various interactive components and examples that help enhance my understanding of JavaScript and web development. 🚀
 
-## Contents 📚:
-### Interacting with a Web Page 🌍
+## 🔗 Project Links:
+
+<details open>
+<summary>
+   <h3>🌍 Interacting with a Web Page</h3>
+</summary>
 
 1. $\textsf{\color{gold}{✨ Web Page Interacting ✨}}$ <br/>
    Explore basic interactions and event handling. <br/>
@@ -33,7 +37,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    Develop an image gallery using event delegation for efficiency. <br/>
    #### [Run Demo](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/07-Delegation-image-gallery/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Interacting-with-a-web-page/07-Delegation-image-gallery)
 
-<br/>
+</details>
 
 ### Modal windows 🪟
 

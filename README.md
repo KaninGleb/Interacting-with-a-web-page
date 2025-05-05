@@ -13,7 +13,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    Create a dynamic carousel to showcase images or content. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/02-Carousel/)
 
-3. **✨Expanding Tree✨** <br/>
+3. $\textsf{\color{gold}{✨Expanding Tree✨}}$ <br/>
    Implement an expanding tree structure for better data visualization. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/03-Expanding-tree/)
 

@@ -59,9 +59,9 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    This project demonstrates object-oriented programming principles. <br/>
    #### [Run Demo](https://kaningleb.github.io/Learn-JS/Classes/01-Simple-calculator-using-Object-methods/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Classes/01-Simple-calculator-using-Object-methods)
 
-3. $\textsf{\color{gold}{✨ Clock with Class ✨}}$ <br/>
+2. $\textsf{\color{gold}{✨ Clock with Class ✨}}$ <br/>
    Implement a clock using JavaScript classes. <br/>
-   [View Assignment](https://kaningleb.github.io/Learn-JS/Classes/01-Clock-with-Class/)
+   #### [Run Demo](https://kaningleb.github.io/Learn-JS/Classes/01-Clock-with-Class/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Classes/02-Clock-with-Class)
 
 
 

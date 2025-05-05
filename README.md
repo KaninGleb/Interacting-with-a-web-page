@@ -49,7 +49,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 
 1. $\textsf{\color{gold}{✨ Circle animation with Promise ✨}}$ <br/>
    Implement a circular animation that resolves with a promise to demonstrate asynchronous behavior. <br/>
-   [View Assignment](https://kaningleb.github.io/Learn-JS/Promises/01-Circle-Animation-with-Promises/)
+    #### [Run Demo](https://kaningleb.github.io/Learn-JS/Promises/01-Circle-Animation-with-Promises/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Promises/01-Circle-Animation-with-Promises)
   
 <br/>
 

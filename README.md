@@ -29,7 +29,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 
 6. $\textsf{\color{gold}{✨ Catch the Link Transition ✨}}$ <br/>
    Implement catch transitions when navigating links. <br/>
-   [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/06-Catch-the-link-transition/)
+   #### [Run Demo](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/06-Catch-the-link-transition/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Interacting-with-a-web-page/06-Catch-the-link-transition)
 
 7. $\textsf{\color{gold}{✨ Delegation Image Gallery ✨}}$ <br/>
    Develop an image gallery using event delegation for efficiency. <br/>

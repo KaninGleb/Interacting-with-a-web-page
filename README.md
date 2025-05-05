@@ -63,7 +63,12 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
   
 </details>
 
-### Classes 👍
+
+<details open>
+<summary>
+   <h3>👍 Classes</h3>
+</summary>
+   
 1. $\textsf{\color{gold}{✨ Simple calculator with Object Methods ✨}}$ <br/>
    Develop a simple calculator using JavaScript object methods to perform basic arithmetic operations (addition and multiplication).
    This project demonstrates object-oriented programming principles. <br/>
@@ -73,6 +78,6 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    Implement a clock using JavaScript classes. <br/>
    #### [Run Demo](https://kaningleb.github.io/Learn-JS/Classes/02-Clock-with-Class/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Classes/02-Clock-with-Class)
 
-
+</details>
 
 

@@ -21,7 +21,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    Build a sortable table to manage data effectively. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/04-Sorted-table/)
 
-5. **✨Data Tooltip✨** <br/>
+5. $\textsf{\color{gold}{✨Data Tooltip✨}}$ <br/>
    Create informative tooltips that provide additional context. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/05-Data-tooltip/)
 

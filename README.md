@@ -5,23 +5,23 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 ## Contents 📚:
 ### Interacting with a Web Page 🌍
 
-1. $\textsf{\color{gold}{✨Web Page Interacting✨}}$ <br/>
+1. $\textsf{\color{gold}{✨ Web Page Interacting ✨}}$ <br/>
    Explore basic interactions and event handling. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/01-Interacting/)
    
-3. $\textsf{\color{gold}{✨Carousel✨}}$ <br/>
+3. $\textsf{\color{gold}{✨ Carousel ✨}}$ <br/>
    Create a dynamic carousel to showcase images or content. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/02-Carousel/)
 
-3. $\textsf{\color{gold}{✨Expanding Tree✨}}$ <br/>
+3. $\textsf{\color{gold}{✨ Expanding Tree ✨}}$ <br/>
    Implement an expanding tree structure for better data visualization. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/03-Expanding-tree/)
 
-4. $\textsf{\color{gold}{✨Sorted Table✨}}$ <br/>
+4. $\textsf{\color{gold}{✨ Sorted Table ✨}}$ <br/>
    Build a sortable table to manage data effectively. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/04-Sorted-table/)
 
-5. $\textsf{\color{gold}{✨Data Tooltip✨}}$ <br/>
+5. $\textsf{\color{gold}{✨ Data Tooltip ✨}}$ <br/>
    Create informative tooltips that provide additional context. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/05-Data-tooltip/)
 

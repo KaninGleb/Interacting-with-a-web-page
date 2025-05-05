@@ -5,8 +5,6 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 ## Contents 📚:
 ### Interacting with a Web Page 🌍
 
-
-
 1. $\textsf{\color{gold}{✨ Web Page Interacting ✨}}$ <br/>
    Explore basic interactions and event handling. <br/>
    #### [Run Demo](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/01-Interacting/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Interacting-with-a-web-page/01-Interacting)
@@ -61,7 +59,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 
 2. $\textsf{\color{gold}{✨ Clock with Class ✨}}$ <br/>
    Implement a clock using JavaScript classes. <br/>
-   #### [Run Demo](https://kaningleb.github.io/Learn-JS/Classes/01-Clock-with-Class/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Classes/02-Clock-with-Class)
+   #### [Run Demo](https://kaningleb.github.io/Learn-JS/Classes/02-Clock-with-Class/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Classes/02-Clock-with-Class)
 
 
 

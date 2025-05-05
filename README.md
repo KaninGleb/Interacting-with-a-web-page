@@ -39,13 +39,16 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
 
 </details>
 
-### Modal windows 🪟
+<details open>
+<summary>
+   <h3>🪟 Modal windows </h3>
+</summary>
 
 1. $\textsf{\color{gold}{✨ Modal dialog box with form ✨}}$ <br/>
    Create a modal dialog that includes a form for user input. <br/>
    #### [Run Demo](https://kaningleb.github.io/Learn-JS/Modal-windows/01-Modal-dialog-box-with-form/) $\textsf{\color{#4493f8}{/}}$ [View Code](https://github.com/KaninGleb/Learn-JS/tree/main/Modal-windows/01-Modal-dialog-box-with-form)
 
-<br/>
+</details>
 
 ### Promises 🤝
 

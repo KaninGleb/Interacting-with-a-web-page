@@ -25,7 +25,7 @@ This repository is dedicated to my practice tasks from **Learn JavaScript**. Her
    Create informative tooltips that provide additional context. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/05-Data-tooltip/)
 
-6. **✨Catch the Link Transition✨** <br/>
+6. $\textsf{\color{gold}{✨Catch the Link Transition✨}}$ <br/>
    Implement catch transitions when navigating links. <br/>
    [View Assignment](https://kaningleb.github.io/Learn-JS/Interacting-with-a-web-page/06-Catch-the-link-transition/)
 
